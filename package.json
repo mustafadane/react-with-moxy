@@ -1,7 +1,7 @@
 {
   "name": "project-name",
   "version": "0.0.0",
-  "description": "The https://project-domain.com web app",
+  "description": "The https://mustafadane.com web app",
   "keywords": [
     "react",
     "isomorphic",
@@ -16,7 +16,7 @@
   "homepage": "https://github.com/project-org/project-name",
   "repository": {
     "type": "git",
-    "url": "git@github.com:project-org/project-name"
+    "url": "git@github.com:mustafadane/react-with-moxy"
   },
   "private": true,
   "scripts": {
